@@ -1,4 +1,4 @@
-n this project, we aimed to test whether we could develop a profitable trading strategy by analyzing past stock movement data. Fortunately, we were able to succeed in this endeavor.
+In this project, we aimed to test whether we could develop a profitable trading strategy by analyzing past stock movement data. Fortunately, we were able to succeed in this endeavor.
 
 Our trading strategy involved buying stocks when our model predicted that the stock price would rise, and then selling them at the end of the day. If the model predicted that the stock price would decrease, we ignored it for the day, as our brokerage (Robinhood) does not allow inexperienced traders like us to short stocks. If we had considered shorting, our yield numbers might have been higher, particularly for stocks where the model already had very high yield.
 
